@@ -18,9 +18,8 @@ email: peter.binkley@ualberta.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Experiments with IIIF manifests
 baseurl: "/iiif-experiments" # the subpath of your site, e.g. /blog
-url: "https://ualbertalib.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pabinkley
-github_username:  ualbertalib
+url: "https://pbinkley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: pbinkley 
 
 # Build settings
 markdown: kramdown
